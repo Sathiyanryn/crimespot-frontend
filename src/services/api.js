@@ -3,7 +3,7 @@ import axios from 'axios'
 import { getToken } from './auth'
 
 const API = axios.create({
-  baseURL: 'https://crime-y6fk.onrender.com/', // backend
+  baseURL: 'https://crime-y6k.onrender.com', // backend
   timeout: 10000,
 })
 
